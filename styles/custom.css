@@ -2,3 +2,6 @@
 .txt-cnt{text-align: center;}
 .ai-cnt{align-items: center;}
 .txt-white{color: #fff;}
+.pt0{padding-top: 0;}
+.pb30{padding-bottom: 30px;}
+.cont-cust-w{max-width: 1400px !important;}
